@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "libWaterBridgeSDK"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "水桥三方授权SDK"
 
   # This description is used to generate tags and improve search results.
