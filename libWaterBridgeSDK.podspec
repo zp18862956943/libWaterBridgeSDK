@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  增加uuid 限制访问次数
+  增加切换环境功能
                    DESC
 
   spec.homepage     = "https://github.com/zp18862956943/libWaterBridgeSDK"
